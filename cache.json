@@ -1,0 +1,1256 @@
+{
+  "ayah:2:255": {
+    "number": 262,
+    "text": "GOD - there is no deity save Him, the Ever-Living, the Self-Subsistent Fount of All Being. Neither slumber overtakes Him, nor sleep. His is all that is in the heavens and all that is on earth. Who is there that could intercede with Him, unless it be by His leave? He knows all that lies open before men and all that is hidden from them, whereas they cannot attain to aught of His knowledge save that which He wills [them to attain]. His eternal power overspreads the heavens and the earth, and their upholding wearies Him not. And he alone is truly exalted, tremendous.",
+    "edition": {
+      "identifier": "en.asad",
+      "language": "en",
+      "name": "Asad",
+      "englishName": "Muhammad Asad",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    "surah": {
+      "number": 2,
+      "name": "سُورَةُ البَقَرَةِ",
+      "englishName": "Al-Baqara",
+      "englishNameTranslation": "The Cow",
+      "numberOfAyahs": 286,
+      "revelationType": "Medinan"
+    },
+    "numberInSurah": 255,
+    "juz": 3,
+    "manzil": 1,
+    "page": 42,
+    "ruku": 35,
+    "hizbQuarter": 17,
+    "sajda": false
+  },
+  "search:day of judgment": {
+    "count": 17,
+    "matches": [
+      {
+        "number": 4,
+        "text": "Lord of the Day of Judgment!",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 1,
+          "name": "سُورَةُ ٱلْفَاتِحَةِ",
+          "englishName": "Al-Faatiha",
+          "englishNameTranslation": "The Opening",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 4
+      },
+      {
+        "number": 555,
+        "text": "But how [will they fare] when calamity befalls them [on the Day of Judgment] because of what they have wrought in this world - whereupon they will come to thee, swearing by God, \"Our aim was but to do good, and to bring about harmony\"?",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 4,
+          "name": "سُورَةُ النِّسَاءِ",
+          "englishName": "An-Nisaa",
+          "englishNameTranslation": "The Women",
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 62
+      },
+      {
+        "number": 1007,
+        "text": "Are [the unbelievers] but waiting for the final meaning of that [Day of Judgment] to unfold? [But] on the Day when its final meaning is unfolded, those who aforetime had been oblivious thereof will say: \"Our Sustainer's apostles have indeed told us the truth! Have we, then, any intercessors who could intercede in our behalf? Or could we be brought back [to life] so that we might act otherwise than we were wont to act?\" Indeed, they will have squandered their own selves, and all their false imagery will have forsaken them.",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 7,
+          "name": "سُورَةُ الأَعۡرَافِ",
+          "englishName": "Al-A'raaf",
+          "englishNameTranslation": "The Heights",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 53
+      },
+      {
+        "number": 1491,
+        "text": "And who could be more wicked than they who attribute their own lying inventions to God? [On the Day of Judgment, such as] these shall be arraigned before their Sustainer, and those who are called upon to bear witness [against them] shall say, \"It is they who uttered lies about their Sustainer!\" Oh, verily, God's rejection is the due of all evildoers",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 11,
+          "name": "سُورَةُ هُودٍ",
+          "englishName": "Hud",
+          "englishNameTranslation": "Hud",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 18
+      },
+      {
+        "number": 1725,
+        "text": "of those who have responded to their Sustainer with a goodly response, and of those who did not respond to Him. [As for the latter,] if they possessed all that is on earth, and twice as much, they would surely offer it as ransom [on the Day of Judgment]: a most evil reckoning awaits them, and their goal is hell: and how evil a resting-place!",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 13,
+          "name": "سُورَةُ الرَّعۡدِ",
+          "englishName": "Ar-Ra'd",
+          "englishNameTranslation": "The Thunder",
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 18
+      },
+      {
+        "number": 1771,
+        "text": "And all [mankind] will appear before God [on the Day of Judgment]; and then the weak will say unto those who had gloried in their arrogance: \"Behold, We were but your followers: can you, then, relieve us of something of God's chastisement?\" [And the others] will answer: \"If God would but show us the way [to salvation], we would indeed guide you [towards it]. It is [now] all one, as far as we are concerned, whether we grieve impatiently or endure [our lot] with patience: there is no escape for us!\"",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 14,
+          "name": "سُورَةُ إِبۡرَاهِيمَ",
+          "englishName": "Ibrahim",
+          "englishNameTranslation": "Abraham",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 21
+      },
+      {
+        "number": 1837,
+        "text": "and [My] rejection shall be thy due until the Day of Judgment!\"",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 15,
+          "name": "سُورَةُ الحِجۡرِ",
+          "englishName": "Al-Hijr",
+          "englishNameTranslation": "The Rock",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 35
+      },
+      {
+        "number": 1894,
+        "text": "But, by thy Sustainer! [On the Day of Judgment] We shall indeed call them to account, one and all,",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 15,
+          "name": "سُورَةُ الحِجۡرِ",
+          "englishName": "Al-Hijr",
+          "englishNameTranslation": "The Rock",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 92
+      },
+      {
+        "number": 2483,
+        "text": "Say: \"Everyone is hopefully waiting [for what the future may bring]: wait, then, [for the Day of Judgment] for then you will come to know as to who has followed the even path, and who has found guidance!\"",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 20,
+          "name": "سُورَةُ طه",
+          "englishName": "Taa-Haa",
+          "englishNameTranslation": "Taa-Haa",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 135
+      },
+      {
+        "number": 3808,
+        "text": "and will say: “Oh, woe unto us! This is the Day of Judgment!”",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 37,
+          "name": "سُورَةُ الصَّافَّاتِ",
+          "englishName": "As-Saaffaat",
+          "englishNameTranslation": "Those drawn up in Ranks",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 20
+      },
+      {
+        "number": 4048,
+        "text": "and My rejection shall be thy due until the Day of Judgment!”",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 38,
+          "name": "سُورَةُ صٓ",
+          "englishName": "Saad",
+          "englishNameTranslation": "The letter Saad",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 78
+      },
+      {
+        "number": 4268,
+        "text": "Yet whenever We let him taste some of Our grace after hardship has visited him, he is sure to say, “This is but my due!” - and, “I do not think that the Last Hour will ever come: but if [it should come, and] I should indeed be brought back unto my Sus­tainer, then, behold, the ultimate good awaits me with Him! But [on the Day of Judgment] We shall most cer­tainly give those who were bent on denying the truth full understanding of all that they ever did, and shall most certainly give them [thereby] a taste of suffering severe.",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 41,
+          "name": "سُورَةُ فُصِّلَتۡ",
+          "englishName": "Fussilat",
+          "englishNameTranslation": "Explained in detail",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 50
+      },
+      {
+        "number": 4652,
+        "text": "[and will be told:] “Indeed, unmindful hast thou been of this [Day of Judgment]; but now We have lifted from thee thy veil, and sharp is thy sight today!”",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 50,
+          "name": "سُورَةُ قٓ",
+          "englishName": "Qaaf",
+          "englishNameTranslation": "The letter Qaaf",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 22
+      },
+      {
+        "number": 4687,
+        "text": "they who [mockingly] ask, “When is that Day of Judgment to be?”",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 51,
+          "name": "سُورَةُ الذَّارِيَاتِ",
+          "englishName": "Adh-Dhaariyat",
+          "englishNameTranslation": "The Winnowing Winds",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 12
+      },
+      {
+        "number": 5401,
+        "text": "and who accept as true the [coming of the] Day of Judgment;",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 70,
+          "name": "سُورَةُ المَعَارِجِ",
+          "englishName": "Al-Ma'aarij",
+          "englishNameTranslation": "The Ascending Stairways",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 26
+      },
+      {
+        "number": 5533,
+        "text": "[On the Day of Judgment,] every human being will be held in pledge for whatever [evil] he has wrought –",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 74,
+          "name": "سُورَةُ المُدَّثِّرِ",
+          "englishName": "Al-Muddaththir",
+          "englishNameTranslation": "The Cloaked One",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 38
+      },
+      {
+        "number": 5541,
+        "text": "and the Day of Judgment we were wont to call a lie –",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 74,
+          "name": "سُورَةُ المُدَّثِّرِ",
+          "englishName": "Al-Muddaththir",
+          "englishNameTranslation": "The Cloaked One",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 46
+      }
+    ]
+  },
+  "search:patience": {
+    "count": 47,
+    "matches": [
+      {
+        "number": 52,
+        "text": "And seek aid in steadfast patience and prayer: and this, indeed, is a hard thing for all but the humble in spirit,",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 2,
+          "name": "سُورَةُ البَقَرَةِ",
+          "englishName": "Al-Baqara",
+          "englishNameTranslation": "The Cow",
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 45
+      },
+      {
+        "number": 111,
+        "text": "O YOU who have attained to faith! Do not say [to the Prophet], \"Listen to us,\" but rather say, \"Have patience with us,\" and hearken [unto him], since grievous suffering awaits those who deny the truth.",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 2,
+          "name": "سُورَةُ البَقَرَةِ",
+          "englishName": "Al-Baqara",
+          "englishNameTranslation": "The Cow",
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 104
+      },
+      {
+        "number": 160,
+        "text": "O YOU who have attained to faith! Seek aid in steadfast patience and prayer: for, behold, God is with those who are patient in adversity.",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 2,
+          "name": "سُورَةُ البَقَرَةِ",
+          "englishName": "Al-Baqara",
+          "englishNameTranslation": "The Cow",
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 153
+      },
+      {
+        "number": 257,
+        "text": "And when they came face to face with Goliath and his forces, they prayed: \"O our Sustainer! Shower us with patience in adversity, and make firm our steps, and succour us against the people who deny the truth!\"",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 2,
+          "name": "سُورَةُ البَقَرَةِ",
+          "englishName": "Al-Baqara",
+          "englishNameTranslation": "The Cow",
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 250
+      },
+      {
+        "number": 493,
+        "text": "O you who have attained to faith! Be patient in adversity, and vie in patience with one another, and be ever ready [to do what is right], and remain conscious of God, so that you might attain to a happy state!",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 3,
+          "name": "سُورَةُ آلِ عِمۡرَانَ",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 200
+      },
+      {
+        "number": 518,
+        "text": "And as for those of you who, owing to cir­cumstances, are not in a position to marry free believing women, [let them marry] believing maidens from among those whom you rightfully possess. And God knows all about your faith; each one of you is an issue of the other. Marry them, then, with their people's leave, and give them their dowers in an equitable manner - they being women who give themselves in honest wedlock, not in fornication, nor as secret love-companions. And when they are married, and thereafter become guilty of immoral conduct, they shall be liable to half the penalty to which free married women are liable. This [permission to marry slave-girls applies] to those of you who fear lest they stumble into evil. But it is for your own good to persevere in patience [and to abstain from such marriages]: and God is much-forgiving, a dispenser of grace.",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 4,
+          "name": "سُورَةُ النِّسَاءِ",
+          "englishName": "An-Nisaa",
+          "englishNameTranslation": "The Women",
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 25
+      },
+      {
+        "number": 539,
+        "text": "Among those of the Jewish faith there are some who distort the meaning of the [revealed] words, taking them out of their context and saying, [as it were,] \"We have heard, but we disobey,\" and, \"Hear without hearkening,” and, “Hearken thou unto us, (O Muhammad)” - thus making a play with their tongues, and implying that the [true] Faith is false. And had they but said, \"We have heard, and we pay heed,\" and \"Hear [us], and have patience with us,\" it would indeed have been for their own good, and more upright: but God has rejected them because of their refusal to acknowledge the truth - for it is in but few things that they believe.",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 4,
+          "name": "سُورَةُ النِّسَاءِ",
+          "englishName": "An-Nisaa",
+          "englishNameTranslation": "The Women",
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 46
+      },
+      {
+        "number": 823,
+        "text": "And, indeed, [even] before thy time have apostles been given the lie, and they endured with patience all those charges of falsehood, and all the hurt done to them, till succour came unto them from Us: for there is no power that could alter [the outcome of] God's promises. And some of the histories of those apostles have already come within thy ken.",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 6,
+          "name": "سُورَةُ الأَنۡعَامِ",
+          "englishName": "Al-An'aam",
+          "englishNameTranslation": "The Cattle",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 34
+      },
+      {
+        "number": 1041,
+        "text": "\"And if there be some among you who have come to believe in the message which I bear, the while the others do not believe, then have patience in adversity till God shall judge between us [and them]: for He is the best of all judges!\"",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 7,
+          "name": "سُورَةُ الأَعۡرَافِ",
+          "englishName": "Al-A'raaf",
+          "englishNameTranslation": "The Heights",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 87
+      },
+      {
+        "number": 1080,
+        "text": "for thou takest vengeance on us only because we have come to believe in our Sustainer's messages as soon as they came to us. O our Sustainer! Shower us with patience in adversity, and make us die as men who have surrendered themselves unto Thee!\"",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 7,
+          "name": "سُورَةُ الأَعۡرَافِ",
+          "englishName": "Al-A'raaf",
+          "englishNameTranslation": "The Heights",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 126
+      },
+      {
+        "number": 1082,
+        "text": "[And] Moses said unto his people: \"Turn unto God for aid, and have patience in adversity. Verily, all the earth belongs to God: He gives it as a heritage - to such as He wills of His servants; and the future belongs to the God-conscious!\"",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 7,
+          "name": "سُورَةُ الأَعۡرَافِ",
+          "englishName": "Al-A'raaf",
+          "englishNameTranslation": "The Heights",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 128
+      },
+      {
+        "number": 1091,
+        "text": "whereas unto the people who [in the past] had been deemed utterly low, We gave as their heritage the eastern and western parts of the land that We had blessed. And [thus] thy Sustainer's good promise unto the children of Israel was fulfilled in result of their patience in adversity; whereas We utterly destroyed all that Pharaoh and his people had wrought, and all that they had built.",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 7,
+          "name": "سُورَةُ الأَعۡرَافِ",
+          "englishName": "Al-A'raaf",
+          "englishNameTranslation": "The Heights",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 137
+      },
+      {
+        "number": 1614,
+        "text": "and they produced his tunic with false blood upon it. [But Jacob] exclaimed: \"Nay, but it is your [own] minds that have made [so terrible] a happening seem a matter of little account to you! But [as for myself,] patience in adversity is most goodly [in the sight of God]; and it is to God [alone] that I pray to give me strength to bear the misfortune which you have described to me.\"",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 12,
+          "name": "سُورَةُ يُوسُفَ",
+          "englishName": "Yusuf",
+          "englishNameTranslation": "Joseph",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 18
+      },
+      {
+        "number": 1679,
+        "text": "[AND WHEN they returned to their father and told him what had happened,] he exclaimed: \"Nay, but it is your [own] minds that have made [so terrible] a happening seem a matter of little account to you! But [as for myself,] patience in adversity is most goodly; God may well bring them all [back] unto me: verily, He alone is all-knowing, truly wise!\"",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 12,
+          "name": "سُورَةُ يُوسُفَ",
+          "englishName": "Yusuf",
+          "englishNameTranslation": "Joseph",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 83
+      },
+      {
+        "number": 1762,
+        "text": "And how could we not place our trust in God, seeing that it is He who has shown us the path which we are to follow? \"Hence, we shall certainly bear with patience whatever hurt you may do us: for, all who have trust [in His existence] must place their trust in God [alone]!\"",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 14,
+          "name": "سُورَةُ إِبۡرَاهِيمَ",
+          "englishName": "Ibrahim",
+          "englishNameTranslation": "Abraham",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 12
+      },
+      {
+        "number": 1771,
+        "text": "And all [mankind] will appear before God [on the Day of Judgment]; and then the weak will say unto those who had gloried in their arrogance: \"Behold, We were but your followers: can you, then, relieve us of something of God's chastisement?\" [And the others] will answer: \"If God would but show us the way [to salvation], we would indeed guide you [towards it]. It is [now] all one, as far as we are concerned, whether we grieve impatiently or endure [our lot] with patience: there is no escape for us!\"",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 14,
+          "name": "سُورَةُ إِبۡرَاهِيمَ",
+          "englishName": "Ibrahim",
+          "englishNameTranslation": "Abraham",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 21
+      },
+      {
+        "number": 1943,
+        "text": "those who, having attained to patience in adversity, in their Sustainer place their trust!",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 16,
+          "name": "سُورَةُ النَّحۡلِ",
+          "englishName": "An-Nahl",
+          "englishNameTranslation": "The Bee",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 42
+      },
+      {
+        "number": 2027,
+        "text": "Hence, if you have to respond to an attack (in argument], respond only to the extent of the attack levelled against you; but to bear yourselves with patience is indeed far better for (you, since God is with] those who are patient in adversity.",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 16,
+          "name": "سُورَةُ النَّحۡلِ",
+          "englishName": "An-Nahl",
+          "englishNameTranslation": "The Bee",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 126
+      },
+      {
+        "number": 2028,
+        "text": "Endure, then, with patience (all that they who deny the truth may say] -always remembering that it is none but God who gives thee the strength to endure adversity -and do not grieve over them, and neither be distressed by the false arguments which they devise:",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 16,
+          "name": "سُورَةُ النَّحۡلِ",
+          "englishName": "An-Nahl",
+          "englishNameTranslation": "The Bee",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 127
+      },
+      {
+        "number": 2168,
+        "text": "And contain thyself in patience by the side of all who at morn and at evening invoke their Sustainer, seeking His countenance, and let not thine eyes pass beyond them in quest of the beauties of this world's life; and pay no heed to any whose heart We have rendered heedless of all remembrance of Us because he had always followed [only] his own desires, abandoning all that is good and true.",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 18,
+          "name": "سُورَةُ الكَهۡفِ",
+          "englishName": "Al-Kahf",
+          "englishNameTranslation": "The Cave",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 28
+      },
+      {
+        "number": 2207,
+        "text": "[The other] answered: \"Behold, thou wilt never be able to have patience with me –",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 18,
+          "name": "سُورَةُ الكَهۡفِ",
+          "englishName": "Al-Kahf",
+          "englishNameTranslation": "The Cave",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 67
+      },
+      {
+        "number": 2212,
+        "text": "He replied: \"Did I not tell thee that thou wilt never be able to have patience with me?\"",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 18,
+          "name": "سُورَةُ الكَهۡفِ",
+          "englishName": "Al-Kahf",
+          "englishNameTranslation": "The Cave",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 72
+      },
+      {
+        "number": 2215,
+        "text": "He replied: \"Did I not tell thee that thou wilt never be able to have patience with me?\"",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 18,
+          "name": "سُورَةُ الكَهۡفِ",
+          "englishName": "Al-Kahf",
+          "englishNameTranslation": "The Cave",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 75
+      },
+      {
+        "number": 2218,
+        "text": "[The sage] replied: \"This is the parting of ways between me and thee. [And now] I shall let thee know the real meaning of all [those events] that thou wert unable to bear with patience:,",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 18,
+          "name": "سُورَةُ الكَهۡفِ",
+          "englishName": "Al-Kahf",
+          "englishNameTranslation": "The Cave",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 78
+      },
+      {
+        "number": 2222,
+        "text": "\"And as for that wall, it belonged to two orphan boys [living] in the town, and beneath it was [buried] a treasure belonging to them [by right]. Now their father had been a righteous man, and so thy Sustainer willed it that when they come of age they should bring forth their treasure by thy Sustainer's grace. \"And I did not do (any of] this of my own accord: this is the real meaning of all [those events] that thou wert unable to bear with patience.\"",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 18,
+          "name": "سُورَةُ الكَهۡفِ",
+          "englishName": "Al-Kahf",
+          "englishNameTranslation": "The Cave",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 82
+      },
+      {
+        "number": 2478,
+        "text": "Hence, bear with patience whatever they [who deny the truth] may say, and extol thy Sustainer's limitless glory and praise Him before the rising of the sun and before its setting; and extol His glory, too, during some of the hours of the night as well as during the hours of the day, so that thou might attain to happiness.",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 20,
+          "name": "سُورَةُ طه",
+          "englishName": "Taa-Haa",
+          "englishNameTranslation": "Taa-Haa",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 130
+      },
+      {
+        "number": 2784,
+        "text": "[But,] behold, today I have rewarded them for their patience in adversity: verily, it is they, they who have achieved a triumph!”",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 23,
+          "name": "سُورَةُ المُؤۡمِنُونَ",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 111
+      },
+      {
+        "number": 2875,
+        "text": "AND [even] before thee, [O Muhammad,] We never sent as Our message-bearers any but [mortal men] who indeed ate food [like other human beings] and went about in the market places: for [it is thus that] We cause you [human beings] to be a means of testing one another. Are you able to endure [this test] with patience? For [remember, O man,] thy Sustainer is truly all-seeing!",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 25,
+          "name": "سُورَةُ الفُرۡقَانِ",
+          "englishName": "Al-Furqaan",
+          "englishNameTranslation": "The Criterion",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 20
+      },
+      {
+        "number": 3486,
+        "text": "“O my dear son! Be constant in prayer, and enjoin the doing of what is right and forbid the doing of what is wrong, and bear in patience whatever [ill] may befall thee: this, behold, is something to set one’s heart upon!",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 31,
+          "name": "سُورَةُ لُقۡمَانَ",
+          "englishName": "Luqman",
+          "englishNameTranslation": "Luqman",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 17
+      },
+      {
+        "number": 3527,
+        "text": "and [as] We raised among them leaders who, so long as they bore themselves with patience and had sure faith in Our messages, guided [their people] in accordance with Our behest [so, too, shall it be with the divine writ revealed unto thee, O Muhammad.]",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 32,
+          "name": "سُورَةُ السَّجۡدَةِ",
+          "englishName": "As-Sajda",
+          "englishNameTranslation": "The Prostration",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 24
+      },
+      {
+        "number": 3987,
+        "text": "[But] bear thou with patience whatever they may say, and remember Our servant David, him who was endowed with [so much] inner strength! He, verily, would always turn unto Us:",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 38,
+          "name": "سُورَةُ صٓ",
+          "englishName": "Saad",
+          "englishNameTranslation": "The letter Saad",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 17
+      },
+      {
+        "number": 4014,
+        "text": "[And finally We told him:] “Now take in thy hand a small bunch of grass, and strike therewith, and thou wilt not break thine oath!” for, verily, We found him full of patience in adversity: how excellent a servant [of Ours], who, behold, would always turn unto Us!",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 38,
+          "name": "سُورَةُ صٓ",
+          "englishName": "Saad",
+          "englishNameTranslation": "The letter Saad",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 44
+      },
+      {
+        "number": 4242,
+        "text": "And then, [even] if they endure [their lot] in patience, the fire will still be their abode; and if they pray to be allowed to make amends, they will not be allowed to do so:",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 41,
+          "name": "سُورَةُ فُصِّلَتۡ",
+          "englishName": "Fussilat",
+          "englishNameTranslation": "Explained in detail",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 24
+      },
+      {
+        "number": 4545,
+        "text": "REMAIN, then, [O believer,] patient in adversity, just as all of the apostles, endowed with firmness of heart, bore themselves with patience. And do not ask for a speedy doom of those [who still deny the truth]: on the Day when they see [the fulfillment of] what they were promised, [it will seem to them] as though they had dwelt [on earth] no longer than one hour of [an earthly] day! [This is Our] message. Will, then, any be [really] destroyed save iniquitous folk?”",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 46,
+          "name": "سُورَةُ الأَحۡقَافِ",
+          "englishName": "Al-Ahqaf",
+          "englishNameTranslation": "The Dunes",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 35
+      },
+      {
+        "number": 4617,
+        "text": "for, if they had the patience [to wait] until thou come forth to them [of thine own accord], it would be for their own good. Still, God is much forgiving, a dispenser of grace.",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 49,
+          "name": "سُورَةُ الحُجُرَاتِ",
+          "englishName": "Al-Hujuraat",
+          "englishNameTranslation": "The Inner Apartments",
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 5
+      },
+      {
+        "number": 4669,
+        "text": "HENCE, [O believer,] bear thou with patience what­ever they may say, and extol thy Sustainer’s limit­less glory and praise before the rising of the sun and before its setting;",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 50,
+          "name": "سُورَةُ قٓ",
+          "englishName": "Qaaf",
+          "englishNameTranslation": "The letter Qaaf",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 39
+      },
+      {
+        "number": 4751,
+        "text": "Endure it [now]! But [whether you] bear yourselves with patience or without patience, it will be the same to you: you are but being requited for what you were wont to do.”",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 52,
+          "name": "سُورَةُ الطُّورِ",
+          "englishName": "At-Tur",
+          "englishNameTranslation": "The Mount",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 16
+      },
+      {
+        "number": 4783,
+        "text": "And so, await in patience thy Sustainer’s judgment, for thou art well within Our sight. And extol thy Sustainer’s limitless glory and praise whenever thou risest up,",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 52,
+          "name": "سُورَةُ الطُّورِ",
+          "englishName": "At-Tur",
+          "englishNameTranslation": "The Mount",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 48
+      },
+      {
+        "number": 4873,
+        "text": "Behold, [O Salih] We are letting loose this she-camel as a test for them; and thou but watch them, and contain thyself in patience.",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 54,
+          "name": "سُورَةُ القَمَرِ",
+          "englishName": "Al-Qamar",
+          "englishNameTranslation": "The Moon",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 27
+      },
+      {
+        "number": 5319,
+        "text": "BEAR THEN with patience thy Sustainer's will and be not like him of the great fish, who cried out [in distress] after having given in to anger.",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 68,
+          "name": "سُورَةُ القَلَمِ",
+          "englishName": "Al-Qalam",
+          "englishNameTranslation": "The Pen",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 48
+      },
+      {
+        "number": 5380,
+        "text": "Therefore, [O believer,] endure all adversity with goodly patience:",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 70,
+          "name": "سُورَةُ المَعَارِجِ",
+          "englishName": "Al-Ma'aarij",
+          "englishNameTranslation": "The Ascending Stairways",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 5
+      },
+      {
+        "number": 5485,
+        "text": "and endure with patience whatever people may say [against thee], and avoid them with a comely avoidance.",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 73,
+          "name": "سُورَةُ المُزَّمِّلِ",
+          "englishName": "Al-Muzzammil",
+          "englishNameTranslation": "The Enshrouded One",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 10
+      },
+      {
+        "number": 5502,
+        "text": "but unto thy Sustainer turn in patience.",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 74,
+          "name": "سُورَةُ المُدَّثِّرِ",
+          "englishName": "Al-Muddaththir",
+          "englishNameTranslation": "The Cloaked One",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 7
+      },
+      {
+        "number": 5603,
+        "text": "and will reward them for all their patience in adversity with a garden [of bliss] and with [garments of] silk.",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 76,
+          "name": "سُورَةُ الإِنسَانِ",
+          "englishName": "Al-Insaan",
+          "englishNameTranslation": "Man",
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 12
+      },
+      {
+        "number": 5615,
+        "text": "Await, then, in all patience thy Sustainer's judgment, and pay no heed to any of them, who is a wilful sinner or an ingrate;",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 76,
+          "name": "سُورَةُ الإِنسَانِ",
+          "englishName": "Al-Insaan",
+          "englishNameTranslation": "Man",
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 24
+      },
+      {
+        "number": 6040,
+        "text": "and being, withal, of those who have attained to faith, and who enjoin upon one another patience in adversity, and enjoin upon one another compassion.",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 90,
+          "name": "سُورَةُ البَلَدِ",
+          "englishName": "Al-Balad",
+          "englishNameTranslation": "The City",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 17
+      },
+      {
+        "number": 6179,
+        "text": "unless he be of those who attain to faith, and do good works, and enjoin upon one another the keeping to truth, and enjoin upon one another patience in adversity.",
+        "edition": {
+          "identifier": "en.asad",
+          "language": "en",
+          "name": "Asad",
+          "englishName": "Muhammad Asad",
+          "type": "translation"
+        },
+        "surah": {
+          "number": 103,
+          "name": "سُورَةُ العَصۡرِ",
+          "englishName": "Al-Asr",
+          "englishNameTranslation": "The Declining Day, Epoch",
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 3
+      }
+    ]
+  }
+}
