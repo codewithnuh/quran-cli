@@ -11,7 +11,8 @@ export function random() {
     .action(async () => {
       try {
         const data = await getRandomAyah();
-        console.log({ data });
+        if (data.code === 404) throw new Error("NOT_FOUND");
+        if (data.code !== 200) throw new Error("FETCH_FAILED");
         const surahName = chalk.cyan.bold(data.surah.englishName);
         const ayahNumber = chalk.cyan.bold(data.numberInSurah);
         const line = chalk.gray("─".repeat(45));
@@ -32,6 +33,7 @@ ${line}
         );
       } catch (err) {
         console.log(err);
+
         if (err.message === "NOT_FOUND") {
           console.log(chalk.red("✗ Result not found. Check your query."));
         } else {

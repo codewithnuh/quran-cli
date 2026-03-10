@@ -1,8 +1,11 @@
 import { Command, program } from "commander";
 import Table from "cli-table3";
-import fs from "fs/promises";
+import fs, { mkdir } from "fs/promises";
 import { fetchAyah } from "../utils/api.js";
 import chalk from "chalk";
+import { join } from "path";
+import { homedir } from "os";
+import { wrapText } from "../utils/lib.js";
 
 export function bookMark() {
   const bookmark = new Command("bookmark").description("Manage bookmarks");
@@ -12,7 +15,8 @@ export function bookMark() {
     .command("add <ref>")
     .description("Add ayah to bookmark")
     .action(async (ref) => {
-      const FILE = "bookmarks.json";
+      await mkdir(join(homedir(), ".quran-cli"), { recursive: true });
+      const FILE = join(homedir(), ".quran-cli", "bookmarks.json");
       let bookmarks = [];
 
       try {
@@ -77,7 +81,7 @@ export function bookMark() {
     .command("list")
     .description("Get list of bookmarks")
     .action(async () => {
-      const FILE = "bookmarks.json";
+      const FILE = join(homedir(), ".quran-cli", "bookmarks.json");
 
       const table = new Table({
         head: ["Ref", "Surah", "Translation (preview)"], // table header
@@ -97,7 +101,7 @@ export function bookMark() {
         }
 
         bookmarks.forEach((b) => {
-          table.push([b.ref, b.surah, b.translation.slice(0, 40) + "..."]);
+          table.push([b.ref, b.surah, wrapText(b.translation)]);
         });
 
         // Print table

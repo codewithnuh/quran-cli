@@ -1,6 +1,7 @@
 import { readFile, writeFile } from "fs/promises";
-
-const CACHE_PATH = "./cache.json";
+import { homedir } from "os";
+import { join } from "path";
+const CACHE_PATH = join(homedir(), ".quran-cli", "cache.json");
 
 // read entire cache file
 const readCache = async () => {

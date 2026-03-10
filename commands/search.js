@@ -1,6 +1,5 @@
 import { program } from "commander";
 import { searchQuran } from "../utils/api.js";
-import arabicPersianReshaper from "arabic-persian-reshaper";
 import chalk from "chalk";
 
 export function search() {
