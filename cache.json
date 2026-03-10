@@ -1252,5 +1252,33 @@
         "numberInSurah": 3
       }
     ]
+  },
+  "search:2:252": {
+    "number": 259,
+    "text": "THESE are God's messages: We convey them unto thee, [O Prophet,] setting forth the truth-for, verily, thou art among those who have been entrusted with a message.",
+    "edition": {
+      "identifier": "en.asad",
+      "language": "en",
+      "name": "Asad",
+      "englishName": "Muhammad Asad",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    "surah": {
+      "number": 2,
+      "name": "سُورَةُ البَقَرَةِ",
+      "englishName": "Al-Baqara",
+      "englishNameTranslation": "The Cow",
+      "numberOfAyahs": 286,
+      "revelationType": "Medinan"
+    },
+    "numberInSurah": 252,
+    "juz": 2,
+    "manzil": 1,
+    "page": 41,
+    "ruku": 34,
+    "hizbQuarter": 16,
+    "sajda": false
   }
 }

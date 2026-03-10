@@ -2,6 +2,7 @@ import chalk from "chalk";
 import { getCache, setCache } from "./cache.js";
 function retryAsync(fn, retries) {
   return fn().catch((err) => {
+    console.log(err);
     if (retries <= 0) throw err;
     return retryAsync(fn, retries - 1);
   });
@@ -19,25 +20,25 @@ export async function fetchAyah(ref) {
     if (data.code !== 200) throw new Error(data.status);
 
     // store in cache before returning
-    await setCache(`search:${query}`, data.data);
+    await setCache(`search:${ref}`, data.data);
     return data.data;
   }, 3);
 }
-export async function searchQuran(query) {
-  const cached = await getCache(`search:${query}`);
+export async function searchQuran(ref) {
+  const cached = await getCache(`search:${ref}`);
   if (cached) {
     console.log(chalk.gray("(from cache)"));
     return cached;
   }
   return retryAsync(async function () {
     const res = await fetch(
-      `https://api.alquran.cloud/v1/search/${query}/all/en.asad`,
+      `https://api.alquran.cloud/v1/search/${ref}/all/en.asad`,
     );
     const data = await res.json();
     if (data.code !== 200) throw new Error(data.status);
 
     // store in cache before returning
-    await setCache(`search:${query}`, data.data);
+    await setCache(`search:${ref}`, data.data);
     return data.data;
   }, 3);
 }
@@ -48,4 +49,13 @@ export async function getRandomAyah() {
     if (data.code !== 200) throw new Error(data.status);
     return data.data;
   }, 3);
+}
+
+export async function addBookMark(ref) {
+  return retryAsync(async function () {
+    const res = await fetch(
+      `https://api.alquran.cloud/v1/search/${ref}/all/en.asad`,
+    );
+    const data = await res.json();
+  });
 }
