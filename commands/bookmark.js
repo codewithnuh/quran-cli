@@ -104,7 +104,9 @@ export function bookMark() {
         console.log(table.toString());
       } catch (err) {
         if (err.code === "ENOENT") {
-          console.log(chalk.red("✗ Not found in bookmarks: 2:255"));
+          console.log(
+            chalk.yellow("No bookmarks yet. Use: bookmark add 2:255"),
+          );
         } else {
           console.error("Error listing bookmarks:", err.message);
         }
